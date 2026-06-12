@@ -1,0 +1,32 @@
+.first{
+    height:400px;
+    width:500px;
+    background-color: royalblue;
+    position:relative;
+}
+.second1,.second2{
+    height:90px;
+    width:500px;
+    background-color: brown;
+}
+.second1{
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+}
+.second2{
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    left:0px;
+}
+#third{
+    height:200px;
+    width:200px;
+    background-color: white;
+    border-radius: 50%;
+    position:absolute;
+    left:130px;
+    top:100px
+}
